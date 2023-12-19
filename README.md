@@ -1,3 +1,3 @@
-# repo-remoto
+# Repositório Remoto
 
-Descrição a ser inserida no repositório antes do clone.
+Descrição inserida no repositório depois do clone.
